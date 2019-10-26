@@ -25,6 +25,7 @@ organize your practice.
 | 1  |  [Bubble Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/ "Bubble Sort Implementation ") |  :heavy_check_mark:  | 
 |  2 | [Selection Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/ "Selection Sort Implementation")  | :heavy_check_mark: | 
 |  3 | [Insertion Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/ "Insertion Sort Implementation ")| :heavy_check_mark: |
-|  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") | :heavy_check_mark: | 
 
 
+Random gibberish text to use in web pages, site templates and in typography demos.
+Get rid of Lorem Ipsum forever. A tool for web designers who want to save time.
