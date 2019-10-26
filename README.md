@@ -27,3 +27,6 @@ organize your practice.
 |  3 | [Insertion Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/ "Insertion Sort Implementation ")| |
 |  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") |  | 
 |  5 | [Quick Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/ "Quick Sort Implementation") |  | 
+|  6 |[ Linear Search Tutorial and Implementation](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/ " Linear Search Tutorial and Implementation")  |   | 
+|  7 | [Binary Search Tutorial and Implementation ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/ "Binary Search Tutorial and Implementation ")|   | 
+
