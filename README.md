@@ -35,4 +35,4 @@ organize your practice.
 **3. Problems on SPOJ** 
 | Number  | Problem Link  | Finished   |
 | :------------: | :------------: | :------------: |
-|  1 |  [ADABASET](https://www.spoj.com/problems/ADABASET/ "ADABASET") | :heavy_check_mark:  |
+| 1  | [ADABASET](https://www.spoj.com/problems/ADABASET/ "ADABASET") |  :heavy_check_mark:  | 
