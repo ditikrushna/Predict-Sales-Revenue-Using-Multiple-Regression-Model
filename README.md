@@ -16,3 +16,5 @@ organize your practice.
 - [ ] Time Complexity Problems [[Problems List](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems "Problems List")]
 
 - [ ] Array Basic [Reading [1](https://www.cs.fsu.edu/~myers/c++/notes/arrays.html "1") , [2](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/ "2")]
+
+- [ ] Sorting and Searching Basic [Reading [1](http://pages.cs.wisc.edu/~bobh/367/SORTING.html "1")]
