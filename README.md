@@ -31,3 +31,8 @@ organize your practice.
 |  7 | [Binary Search Tutorial and Implementation ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/ "Binary Search Tutorial and Implementation ")| :heavy_check_mark:  | 
 | 8  |[ Pairs Having Similar Elements ](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/ " Pairs Having Similar Elements ") |  |
 |  9 |  [Neutralisation of charges](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/charges-repel/ "Neutralisation of charges")  | :heavy_check_mark:  |
+
+**3. Problems on SPOJ** 
+| Number  | Problem Link  | Finished   |
+| :------------: | :------------: | :------------: |
+|  1 |  [ADABASET](https://www.spoj.com/problems/ADABASET/ "ADABASET") | :heavy_check_mark:  |
