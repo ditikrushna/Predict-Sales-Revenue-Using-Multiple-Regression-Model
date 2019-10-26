@@ -1,4 +1,4 @@
-# Get_Better_at_Data_Structure_in_1_Months
+# Get Better at Data Structure in One Month
 This contains the curriculum that I will follow to get better at Data-structure  in 1 months.
 
 
