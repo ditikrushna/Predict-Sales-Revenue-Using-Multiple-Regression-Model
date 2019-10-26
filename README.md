@@ -9,7 +9,7 @@ organize your practice.
 
  ##### Day 1 and 2: :clock1:
   
-  **Reading material**
+  **1.Reading material**
 
   - [ ] Time and Space Complexity [[Reading 1 ](http://http://datastructur.es/sp16/materials/lectures/lec17/lec17.html "Reading ") , [2](http://http://datastructur.es/sp16/materials/lectures/lec18/lec18.html "2"), [3](http://datastructur.es/sp16/materials/lectures/lec18/lec18.html "3")] [Lecture Videos[ 1](https://www.youtube.com/watch?v=o9nW0uBqvEo " 1") , [2](https://www.youtube.com/watch?v=7lQXYl_L28w "2")]
 
@@ -18,3 +18,7 @@ organize your practice.
 - [ ] Array Basic [Reading [1](https://www.cs.fsu.edu/~myers/c++/notes/arrays.html "1") , [2](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/ "2")]
 
 - [ ] Sorting and Searching Basic [Reading [1](http://pages.cs.wisc.edu/~bobh/367/SORTING.html "1")]
+
+
+  **2.Problems on HackerEarth** 
+  
