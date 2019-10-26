@@ -24,10 +24,10 @@ organize your practice.
 | :------------: | :------------: | :------------: |
 | 1  |  [Bubble Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/ "Bubble Sort Implementation ") |  :heavy_check_mark:  | 
 |  2 | [Selection Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/ "Selection Sort Implementation")  | :heavy_check_mark: | 
-|  3 | [Insertion Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/ "Insertion Sort Implementation ")| |
-|  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") |  | 
-|  5 | [Quick Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/ "Quick Sort Implementation") |  | 
-|  6 |[ Linear Search Tutorial and Implementation](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/ " Linear Search Tutorial and Implementation")  |   | 
-|  7 | [Binary Search Tutorial and Implementation ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/ "Binary Search Tutorial and Implementation ")|   | 
+|  3 | [Insertion Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/ "Insertion Sort Implementation ")| :heavy_check_mark: |
+|  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") | :heavy_check_mark: | 
+|  5 | [Quick Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/ "Quick Sort Implementation") | :heavy_check_mark: | 
+|  6 |[ Linear Search Tutorial and Implementation](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/ " Linear Search Tutorial and Implementation")  | :heavy_check_mark:  | 
+|  7 | [Binary Search Tutorial and Implementation ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/ "Binary Search Tutorial and Implementation ")| :heavy_check_mark:  | 
 | 8  |[ Pairs Having Similar Elements ](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/ " Pairs Having Similar Elements ") |  |
 
