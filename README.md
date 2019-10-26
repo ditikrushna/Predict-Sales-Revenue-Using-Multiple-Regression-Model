@@ -9,4 +9,4 @@ organize your practice.
 
  ##### Day 1: :clock1:
   
-  - [ ] Time and Space Complexity ()
+  - [ ] Time and Space Complexity [[Reading ](http://http://datastructur.es/sp16/materials/lectures/lec17/lec17.html "Reading ") , [2](http://http://datastructur.es/sp16/materials/lectures/lec18/lec18.html "2"), [3](http://datastructur.es/sp16/materials/lectures/lec18/lec18.html "3")] [Lecture Videos[ 1](https://www.youtube.com/watch?v=o9nW0uBqvEo " 1") , [2](https://www.youtube.com/watch?v=7lQXYl_L28w "2")]
