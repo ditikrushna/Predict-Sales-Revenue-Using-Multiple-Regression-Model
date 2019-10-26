@@ -28,6 +28,6 @@ organize your practice.
 |  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") | :heavy_check_mark: | 
 |  5 | [Quick Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/ "Quick Sort Implementation") | :heavy_check_mark: | 
 |  6 |[ Linear Search Tutorial and Implementation](https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/ " Linear Search Tutorial and Implementation")  | :heavy_check_mark:  | 
-|  7 | [Binary Search Tutorial and Implementation ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/ "Binary Search Tutorial and Implementation ")| c  | 
+|  7 | [Binary Search Tutorial and Implementation ](https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/ "Binary Search Tutorial and Implementation ")| :heavy_check_mark:  | 
 | 8  |[ Pairs Having Similar Elements ](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pairs-having-similar-element-eed098aa/ " Pairs Having Similar Elements ") | :heavy_check_mark: |
 
