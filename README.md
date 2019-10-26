@@ -26,6 +26,5 @@ organize your practice.
 |  2 | [Selection Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/ "Selection Sort Implementation")  | :heavy_check_mark: | 
 |  3 | [Insertion Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/ "Insertion Sort Implementation ")| :heavy_check_mark: |
 |  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") | :heavy_check_mark: | 
-|  5 | [Quick Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/ "Quick Sort Implementation") | :heavy_check_mark: | 
 
 
