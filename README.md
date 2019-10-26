@@ -36,4 +36,5 @@ organize your practice.
 
 | Number  | Problem Link  | Finished   |
 | :------------: | :------------: | :------------: |
-| 1  | [ADABASET](https://www.spoj.com/problems/ADABASET/ "ADABASET") | :heavy_check_mark:  | 
+| 1  | [ADABASET](https://www.spoj.com/problems/ADABASET/ "ADABASET") | :x:  | 
+| 2  | [PAIRS1 - Count the Pairs](https://www.spoj.com/problems/PAIRS1/ "PAIRS1 - Count the Pairs")| :x:  | 
