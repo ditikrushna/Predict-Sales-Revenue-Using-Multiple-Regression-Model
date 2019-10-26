@@ -22,8 +22,8 @@ organize your practice.
   
 | Number  | Problem Link  | Finished   |
 | :------------: | :------------: | :------------: |
-| 1  |  [Bubble Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/ "Bubble Sort Implementation ") |  - [ ]  | 
-|  2 | [Selection Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/ "Selection Sort Implementation")  |  - [ ] | 
-|  3 | [Insertion Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/ "Insertion Sort Implementation ")|  - [ ] |
-|  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") |  - [ ] | 
-|  5 | [Quick Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/ "Quick Sort Implementation") |  - [ ] | 
+| 1  |  [Bubble Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/tutorial/ "Bubble Sort Implementation ") |    | 
+|  2 | [Selection Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/ "Selection Sort Implementation")  |  | 
+|  3 | [Insertion Sort Implementation ](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/tutorial/ "Insertion Sort Implementation ")| |
+|  4 | [Merge Sort Implementaion](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/ "Merge Sort Impelmentaion") |  | 
+|  5 | [Quick Sort Implementation](https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/tutorial/ "Quick Sort Implementation") |  | 
