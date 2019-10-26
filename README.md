@@ -8,3 +8,5 @@ Since getting better at Data Structures takes a lot of effort, we need to keep p
 organize your practice.
 
  ##### Day 1: :clock1:
+  
+  - [ ] Time and Space Complexity ()
