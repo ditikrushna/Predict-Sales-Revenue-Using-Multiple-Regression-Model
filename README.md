@@ -64,3 +64,4 @@ organize your practice.
 | 7  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/ "Add Two Numbers") | :heavy_check_mark: | 
 | 8  | [Reorder List](https://leetcode.com/problems/reorder-list/  "Reorder Lists") | :heavy_check_mark: | 
 | 9  | [Sort List ]( https://leetcode.com/problems/sort-list/ "Sort List") | :heavy_check_mark: | 
+| 10  | [Remove Duplicates from Sorted List II ]( https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II") | :heavy_check_mark: | 
