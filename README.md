@@ -55,4 +55,4 @@ organize your practice.
  
  | Number  | Problem Link  | Finished   |
 | :------------: | :------------: | :------------: |
-| 1  | [Design Linked List]( https://leetcode.com/problems/design-linked-list/ "Design Linked List") | :x:  | 
+| 1  | [Design Linked List]( https://leetcode.com/problems/design-linked-list/ "Design Linked List") | :heavy_check_mark:  | 
