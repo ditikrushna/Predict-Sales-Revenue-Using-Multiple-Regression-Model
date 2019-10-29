@@ -59,3 +59,4 @@ organize your practice.
 | 2  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/ "Delete Node in a Linked List") | :heavy_check_mark: | 
 | 3  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/ "Remove Linked List Elements") | :heavy_check_mark: | 
 | 4  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/ "Middle of the Linked List") | :heavy_check_mark: | 
+| 5  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/ "Palindrome Linked List") | :heavy_check_mark: | 
