@@ -1,4 +1,5 @@
-# Get Better at Data Structure in One Month
+# Get Better at Data Structure in One Month [![Gitter](https://badges.gitter.im/Get_Better_at_Data_Structure_in_1_Months/community.svg)](https://gitter.im/Get_Better_at_Data_Structure_in_1_Months/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 This contains the curriculum that I will follow to get better at Data-structure  in 1 months.
 
 
