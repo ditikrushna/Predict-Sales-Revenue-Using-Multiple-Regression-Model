@@ -44,7 +44,7 @@ organize your practice.
  ##  Day 3 and 4: :clock1:
 
  **1. Reading material** 
- 
+  - [ ] Static Data Structures vs. Dynamic Data Structures [Reading [1](https://www.ayomaonline.com/academic/static-vs-dynamic-data-structures/ "1")]
  - [ ] Linked List Basic  [Reading [1](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html "1"), [2](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d "2"),[3]( https://people.engr.ncsu.edu/efg/210/s99/Notes/LinkedList.1.html "3")] 
 
  
