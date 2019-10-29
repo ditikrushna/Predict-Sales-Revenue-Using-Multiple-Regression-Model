@@ -41,7 +41,7 @@ organize your practice.
 | 3  | [CODEM3 - Problem3](https://www.spoj.com/problems/CODEM3/ "CODEM3 - Problem3")| :x: | 
 
 
- ##  Day 3 and 4: :clock1:
+ ##  Day 3 and 4: :clock630:
 
  **1. Reading material** 
   - [ ] Static Data Structures vs. Dynamic Data Structures [Reading [1](https://www.ayomaonline.com/academic/static-vs-dynamic-data-structures/ "1")]
