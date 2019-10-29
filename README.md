@@ -61,4 +61,4 @@ organize your practice.
 | 4  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/ "Middle of the Linked List") | :heavy_check_mark: | 
 | 5  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/ "Palindrome Linked List") | :heavy_check_mark: | 
 | 6  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/ "Copy List with Random Pointer") | :heavy_check_mark: | 
-| 7  | [Add Two Numbers](  https://leetcode.com/problems/add-two-numbers/"Add Two Numbers") | :heavy_check_mark: | 
+| 7  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/ "Add Two Numbers") | :heavy_check_mark: | 
