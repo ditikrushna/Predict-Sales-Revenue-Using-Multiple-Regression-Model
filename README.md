@@ -48,4 +48,6 @@ organize your practice.
  - [ ] Linked List Basic  [Reading [1](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html "1"), [2](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d "2"),[3]( https://people.engr.ncsu.edu/efg/210/s99/Notes/LinkedList.1.html "3")]
   - [ ] Differences between Arrays and Linked Lists [Reading [1](http://www.necessaryandsufficient.net/2008/05/differences-between-arrays-and-linked-lists/ "1")]
 
+ **2. Lecture Video** 
+  - [ ] Linked Lists by MyCodeSchool  [Lecture Video [1](https://www.youtube.com/watch?v=NobHlGUjV3g&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=3 "1")]
  
