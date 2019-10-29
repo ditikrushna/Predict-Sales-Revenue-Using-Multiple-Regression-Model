@@ -51,3 +51,8 @@ organize your practice.
  **2. Lecture Video** 
   - [ ] Linked Lists by MyCodeSchool  [Lecture Video [1](https://www.youtube.com/watch?v=NobHlGUjV3g&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=3 "1")]
  
+ **3. Problems on LeetCode** 
+ 
+ | Number  | Problem Link  | Finished   |
+| :------------: | :------------: | :------------: |
+| 1  | [Design Linked List]( https://leetcode.com/problems/design-linked-list/ "Design Linked List") | :x:  | 
