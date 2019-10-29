@@ -39,3 +39,8 @@ organize your practice.
 | 1  | [ADABASET](https://www.spoj.com/problems/ADABASET/ "ADABASET") | :x:  | 
 | 2  | [PAIRS1 - Count the Pairs](https://www.spoj.com/problems/PAIRS1/ "PAIRS1 - Count the Pairs")| :x:  | 
 | 3  | [CODEM3 - Problem3](https://www.spoj.com/problems/CODEM3/ "CODEM3 - Problem3")| :x: | 
+
+
+ ##  Day 1 and 2: :clock1:
+
+ **1. Reading material** 
