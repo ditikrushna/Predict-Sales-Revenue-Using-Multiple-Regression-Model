@@ -63,3 +63,4 @@ organize your practice.
 | 6  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/ "Copy List with Random Pointer") | :heavy_check_mark: | 
 | 7  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/ "Add Two Numbers") | :heavy_check_mark: | 
 | 8  | [Reorder List](https://leetcode.com/problems/reorder-list/  "Reorder Lists") | :heavy_check_mark: | 
+| 9  | [Sort List ]( https://leetcode.com/problems/sort-list/ "Sort List") | :heavy_check_mark: | 
