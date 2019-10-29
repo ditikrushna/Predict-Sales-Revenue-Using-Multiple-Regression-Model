@@ -112,3 +112,5 @@ The Github markdown's task list feature is used to check progress.
      git pull upstream master
 
      git push your_user_name master
+     
+ Refer to [this](https://github.com/susam/gitpr/blob/master/README.md "this") for understanding more about Fork and PR workflow.
