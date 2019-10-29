@@ -95,20 +95,20 @@ The Github markdown's task list feature is used to check progress.
 
 **Marking tasks as completed and pushing to your branch**
     
-    git add .
+     git add .
   
-    git commit -m "Completed tasks x and y"
+     git commit -m "Completed tasks x and y"
   
-    git rebase your_user_name/master
+     git rebase your_user_name/master
   
-    git push --force
+     git push --force
 **Keeping your fork's list updated with the changes made here:**
 
 
-    `git remote add upstream https://github.com/ditikrushna/Get_Better_at_Data_Structure_in_1_Months.git`
+     git remote add upstream https://github.com/ditikrushna/Get_Better_at_Data_Structure_in_1_Months.git
 
-    `git checkout master`
+     git checkout master
 
-    `git pull upstream master`
+     git pull upstream master
 
-    `git push your_user_name master`
+     git push your_user_name master
