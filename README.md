@@ -84,4 +84,7 @@ The Github markdown's task list feature is used to check progress.
  - Fork this repository
  - Clone the forked repository  
  `https://github.com/ditikrushna/Get_Better_at_Data_Structure_in_1_Months.git`
+ - Create a new branch for tracking your progress. Let's name this your_user_name 
+ `git checkout -b your_user_name`
+
  
