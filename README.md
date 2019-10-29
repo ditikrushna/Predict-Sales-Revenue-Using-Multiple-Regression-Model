@@ -41,6 +41,10 @@ organize your practice.
 | 3  | [CODEM3 - Problem3](https://www.spoj.com/problems/CODEM3/ "CODEM3 - Problem3")| :x: | 
 
 
- ##  Day 1 and 2: :clock1:
+ ##  Day 3 and 4: :clock1:
 
  **1. Reading material** 
+ 
+ - [ ] Linked List Basic  [Reading [1](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html "1")]
+
+ 
