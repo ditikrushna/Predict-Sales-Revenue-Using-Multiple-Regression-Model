@@ -94,6 +94,7 @@ The Github markdown's task list feature is used to check progress.
    `git remote add your_user_name https://github.com/ditikrushna/Get_Better_at_Data_Structure_in_1_Months.git`
 
 **Marking tasks as completed and pushing to your branch**
+    
     `git add .`
   
     `git commit -m "Completed tasks x and y"`
