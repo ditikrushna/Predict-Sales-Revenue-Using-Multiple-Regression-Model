@@ -60,3 +60,4 @@ organize your practice.
 | 3  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/ "Remove Linked List Elements") | :heavy_check_mark: | 
 | 4  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/ "Middle of the Linked List") | :heavy_check_mark: | 
 | 5  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/ "Palindrome Linked List") | :heavy_check_mark: | 
+| 6  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/ "Copy List with Random Pointer") | :heavy_check_mark: | 
