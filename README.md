@@ -89,5 +89,8 @@ The Github markdown's task list feature is used to check progress.
  - Create a new branch for tracking your progress. Let's name this your_user_name 
  
    `git checkout -b your_user_name`
+ - Add remote 
+ 
+   `git remote add your_user_name https://github.com/ditikrushna/Get_Better_at_Data_Structure_in_1_Months.git`
 
  
