@@ -79,3 +79,4 @@ organize your practice.
 
 ### **How to use this list?**  
 The Github markdown's task list feature is used to check progress. 
+**One time steps:-** 
