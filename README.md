@@ -67,3 +67,6 @@ organize your practice.
 | 10  | [Remove Duplicates from Sorted List II ]( https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II") | :heavy_check_mark: | 
 | 11 | [Linked List Components ]( https://leetcode.com/problems/linked-list-components "Linked List Components ") | :heavy_check_mark: |
 | 12 | [Next Greater Node In Linked List ]( https://leetcode.com/problems/next-greater-node-in-linked-list "Next Greater Node In Linked List") | :heavy_check_mark: | 
+
+
+>  **IF YOU HAVE TIME THEN SOLVE AS MANY AS POSSIBLE HERE IS THE LIST**[ Problem List](https://leetcode.com/tag/linked-list/ " Problem List")
