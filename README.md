@@ -55,4 +55,5 @@ organize your practice.
  
  | Number  | Problem Link  | Finished   |
 | :------------: | :------------: | :------------: |
-| 1  | [Design Linked List]( https://leetcode.com/problems/design-linked-list/ "Design Linked List") | :heavy_check_mark:  | 
+| 1  | [Design Linked List]( https://leetcode.com/problems/design-linked-list/ "Design Linked List") | :heavy_check_mark:  |
+| 2  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/ "Delete Node in a Linked List") | :heavy_check_mark: | 
