@@ -72,6 +72,8 @@ organize your practice.
 
 >  **IF YOU HAVE TIME THEN SOLVE AS MANY AS POSSIBLE HERE IS THE LIST**[ Problem List](https://leetcode.com/tag/linked-list/ " Problem List")
 
+ ##  Day 5 and 6: :clock630: 
+ 
 
 
 
