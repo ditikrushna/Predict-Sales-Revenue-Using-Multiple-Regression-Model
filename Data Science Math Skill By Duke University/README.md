@@ -7,9 +7,6 @@ Week 1
 ======
 Building Blocks for Problem Solving
 
-a. Sets and What they're good for
-+++++++++++++++++++++++++++++++++
-
 Sets basics and vocabulary:
 --------------------------
 
@@ -81,8 +78,7 @@ Visualizing Sets
 Inclusion-Exclusion Formula:
 ∣A ∪ B∣ = ∣A∣ + ∣B∣ - ∣A ∩ B∣
 
-b. The infinite world of real numbers
-+++++++++++++++++++++++++++++++++++++
+
 
 Numbers: The Real Number Line
 -----------------------------
@@ -131,8 +127,7 @@ Open Interval:
 Half Open Interval:
 [1, 10) = {x ∈ R: 1 <= x < 10}
 
-c. That Jagged S Symbol
-+++++++++++++++++++++++
+
 
 Sigma Notation: Introduction to Summation
 -----------------------------------------
@@ -180,8 +175,6 @@ Week 2
 ======
 Functions and Graphs
 
-a. Descartes was really smart
-++++++++++++++++++++++++++++++
 
 Cartesian Plane: Plotting Points
 -------------------------------
@@ -238,8 +231,7 @@ y = x - 1
 If a line l has lope M and l hits the y axis at the point (0, b), then
 	y = mx + b is the equation of the line
 
-b. Input Output Machine
-+++++++++++++++++++++++
+
 
 Functions: Mapping from Sets to Sets
 ------------------------------------
@@ -312,8 +304,7 @@ Week 3
 ======
 Measuring rates of change
 
-a. This is about the derivative stuff
-+++++++++++++++++++++++++++++++++++++
+
 
 Tangent Lines: The Slope of a graph at a point
 ----------------------------------------------
@@ -334,8 +325,6 @@ f'(x) = lim h->0 ((x + h)^2 - x^2) / h
 	  = lim h->0 (2x + h)
 	  = 2x
 
-b. Fast Growth - Slow Growth
-++++++++++++++++++++++++++++
 
 Using Integer Exponents
 -----------------------
@@ -412,8 +401,7 @@ Week 4
 ======
 Introduction to Probability Theory
 
-a. Basic Probability Definitions
-++++++++++++++++++++++++++++++++
+
 
 Probability Definitions & Notations
 -----------------------------------
@@ -438,8 +426,7 @@ P(x, y) = P(x) P(y) (Product Distribution)
 
 P(A or B) = P(A) + P(B) - P(A, B)
 
-b. Problem Solving Methods
-++++++++++++++++++++++++++
+
 
 Permutations & Combinations
 ---------------------------
@@ -475,8 +462,7 @@ P(A|B) = P(A, B) / P(B)
 
 If A & B is independence, then P(A|B) = P(A)
 
-c. Applying Bayes Theorem and the binomial theorem
-++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 Bayes' Theorem (Part 1)
 -----------------------
