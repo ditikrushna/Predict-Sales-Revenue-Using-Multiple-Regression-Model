@@ -1,4 +1,4 @@
-Data Science Math Skills
+Data Science Math Skills by Duke University 
 ========================
 Topics include:
 1. 	Set theory, including Venn diagrams
