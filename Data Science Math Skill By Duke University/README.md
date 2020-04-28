@@ -1,5 +1,23 @@
 Data Science Math Skills
 ========================
+Topics include:
+1. 	Set theory, including Venn diagrams
+2. 	Properties of the real number line
+3. 	Interval notation and algebra with inequalities
+4. 	Uses for summation and Sigma notation
+5.	Math on the Cartesian (x,y) plane, slope and distance formulas
+6.	Graphing and describing functions and their inverses on the x-y plane,
+7.	The concept of instantaneous rate of change and tangent lines to a curve
+8.	Exponents, logarithms, and the natural log function.
+9.	Probability theory, including Bayes’ theorem. 
+
+
+
+
+
+
+
+
 
 Maths is the language of Data Science.
 
