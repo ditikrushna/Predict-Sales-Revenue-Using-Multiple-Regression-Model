@@ -1,4 +1,4 @@
-<h2 align="center">Predict Sales Revenue Using Multiple Regression Model </h2>
+<h2 align="left">Predict Sales Revenue Using Multiple Regression Model </h2>
 
 ### Description:-
 
