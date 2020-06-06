@@ -1,4 +1,14 @@
-|  Sr.No  |  Course Title | University   |  Readme  | Status  |
-| :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1 | Data Science Math Skill  | Duke University   |  [Readme Note ](https://github.com/ditikrushna/Mathmatics-and-Statistice-for-Data-Science-/blob/master/Data%20Science%20Math%20Skill%20By%20Duke%20University/README.md "Readme Note ") | :heavy_check_mark: |
-|  2 | Introduction to Calculus  | The University of Sydney  |   |   | 
+#### Predict Sales Revenue Using Multiple Regression Model 
+
+**Description:-**
+In this project ,I have built and evaluated **multiple linear regression models** using Python. I have used scikit-learn to calculate the regression, while using pandas for data management and seaborn for data visualization. The dataset for this project consists of the very popular [Advertising](%28https://www.kaggle.com/ishaanv/ISLR-Auto#Advertising.csv%29) dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.
+
+Key Task : 
+ - Built univariate and multivariate linear regression models using scikit-learn .
+ - Performed Exploratory Data Analysis (EDA) and data visualization with seaborn .
+ - Evaluated model fit and accuracy using numerical measures such as R² and RMSE .
+ - Performed Model interaction effects in regression using basic feature engineering techniques.
+
+
+[Notebook Link]()
+[Dataset Link]()
