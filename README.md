@@ -1,4 +1,4 @@
-#### Predict Sales Revenue Using Multiple Regression Model 
+### Predict Sales Revenue Using Multiple Regression Model 
 
 **Description:-**
 In this project ,I have built and evaluated **multiple linear regression models** using Python. I have used scikit-learn to calculate the regression, while using pandas for data management and seaborn for data visualization. The dataset for this project consists of the very popular [Advertising](%28https://www.kaggle.com/ishaanv/ISLR-Auto#Advertising.csv%29) dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.
@@ -10,5 +10,5 @@ Key Task :
  - Performed Model interaction effects in regression using basic feature engineering techniques.
 
 
-[Notebook Link]()
+[Notebook Link](https://github.com/ditikrushna/Predict-Sales-Revenue-Using-Multiple-Regression-Model/blob/master/multiple.ipynb)
 [Dataset Link]()
